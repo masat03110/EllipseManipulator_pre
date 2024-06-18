@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="App">
       <div className="controls">
-        <h1>Ellipse Manipulator3</h1>
+        <h1>Ellipse Manipulator pre</h1>
         <button onClick={addEllipse}>Add Ellipse</button>
         {ellipses.length > 0 && (
           <>
