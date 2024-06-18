@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EllipseManipulator_pre/static/css/main.2c437441.css",
+    "main.js": "/EllipseManipulator_pre/static/js/main.d2da89a0.js",
+    "static/js/453.56e30b44.chunk.js": "/EllipseManipulator_pre/static/js/453.56e30b44.chunk.js",
+    "index.html": "/EllipseManipulator_pre/index.html",
+    "main.2c437441.css.map": "/EllipseManipulator_pre/static/css/main.2c437441.css.map",
+    "main.d2da89a0.js.map": "/EllipseManipulator_pre/static/js/main.d2da89a0.js.map",
+    "453.56e30b44.chunk.js.map": "/EllipseManipulator_pre/static/js/453.56e30b44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c437441.css",
+    "static/js/main.d2da89a0.js"
+  ]
+}
